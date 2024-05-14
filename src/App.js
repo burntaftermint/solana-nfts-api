@@ -57,7 +57,17 @@ function App() {
 </a>
 
           {/* You can add more navbar items as needed */}
-          
+          <ul className="nav-menu">
+            <li className="nav-item">
+              
+            </li>
+            <li className="nav-item">
+              
+            </li>
+            {/* Add more items as needed */}
+          </ul>
+        </div>
+      </nav>
 
       {/* Main content */}
       <div className="NFTs">
