@@ -57,17 +57,7 @@ function App() {
 </a>
 
           {/* You can add more navbar items as needed */}
-          <ul className="nav-menu">
-            <li className="nav-item">
-              <a href="https://solana-nfts-api.vercel.app/" className="nav-links">NFTs</a>
-            </li>
-            <li className="nav-item">
-              <a href="https://solana-defi-api.vercel.app/" className="nav-links">Defi</a>
-            </li>
-            {/* Add more items as needed */}
-          </ul>
-        </div>
-      </nav>
+          
 
       {/* Main content */}
       <div className="NFTs">
