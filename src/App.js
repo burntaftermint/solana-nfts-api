@@ -52,7 +52,7 @@ function App() {
       {/* Navbar */}
       <nav className="navbar">
         <div className="navbar-container">
-        <a href="https://twitter.com/burntaftermint" target="_blank" className="navbar-logo">
+        <a href="https://github.com/burntaftermint" target="_blank" className="navbar-logo">
   <img src={process.env.PUBLIC_URL + '/burntaftermint.png'} alt="Logo" />
 </a>
 
