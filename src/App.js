@@ -56,7 +56,8 @@ function App() {
   <img src={process.env.PUBLIC_URL + '/burntaftermint.png'} alt="Logo" />
 </a>
 
-          {/* You can add more navbar items as needed */}
+          {/* Removed options to choose between NFT list and Solana Defi coins because Defi api key stopped giving access */}
+          
           <ul className="nav-menu">
             <li className="nav-item">
               
